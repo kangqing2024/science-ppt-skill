@@ -1,0 +1,7 @@
+interface:
+  display_name: "科研汇报 Research PPT"
+  short_description: "从本地科研模板归纳蓝绿紫主题、导航和图文版式，制作可编辑科研汇报"
+  icon_large: "./assets/preview.png"
+  default_prompt: "使用 $artifact-template-research-ppt，依据我的论文或项目资料，制作与本地科研模板风格相近的可编辑PPTX。"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,2098 @@
+{
+  "inspection_date": "2026-10-30",
+  "method": "Read-only ZIP/OOXML extraction. Physical page order verified against presentation.xml relationships. Colors/fonts/sizes counted from slide-local attributes excluding instruction pages; inheritance resolved only in listed theme metadata. Values are evidence, not mandatory design defaults.",
+  "deck_count": 14,
+  "total_slides": 297,
+  "sources": [
+    {
+      "filename": "5绿色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+      "bytes": 10119555,
+      "sha256": "cd89280d00c11ae61987ef02de603e9298207f0572fb314a0999639c056d6490",
+      "family": "funding-green",
+      "slide_count": 18,
+      "canvas_inches": [
+        13.333,
+        7.5
+      ],
+      "theme_colors": {
+        "dk1": "000000",
+        "lt1": "FFFFFF",
+        "dk2": "44546A",
+        "lt2": "E7E6E6",
+        "accent1": "11754F",
+        "accent2": "11754F",
+        "accent3": "11754F",
+        "accent4": "029676",
+        "accent5": "11754F",
+        "accent6": "11754F",
+        "hlink": "0563C1",
+        "folHlink": "954F72"
+      },
+      "theme_fonts": {
+        "majorFont": {
+          "latin": "思源黑体 CN Bold",
+          "ea": "思源黑体 CN Bold",
+          "cs": "Arial"
+        },
+        "minorFont": {
+          "latin": "思源黑体 CN Medium",
+          "ea": "思源黑体 CN Medium",
+          "cs": "Arial"
+        }
+      },
+      "explicit_fonts_top": [
+        [
+          "思源黑体 CN Medium",
+          320
+        ],
+        [
+          "思源黑体 CN Bold",
+          262
+        ],
+        [
+          "等线",
+          113
+        ],
+        [
+          "Roboto",
+          97
+        ],
+        [
+          "微软雅黑",
+          72
+        ],
+        [
+          "思源宋体 CN Heavy",
+          62
+        ]
+      ],
+      "explicit_font_sizes_pt_top": [
+        [
+          16.0,
+          62
+        ],
+        [
+          20.0,
+          51
+        ],
+        [
+          24.0,
+          50
+        ],
+        [
+          36.0,
+          38
+        ],
+        [
+          14.0,
+          22
+        ],
+        [
+          18.0,
+          12
+        ],
+        [
+          72.0,
+          12
+        ],
+        [
+          40.0,
+          9
+        ]
+      ],
+      "explicit_colors_top": [
+        [
+          "11754F",
+          177
+        ],
+        [
+          "C00000",
+          140
+        ],
+        [
+          "000000",
+          44
+        ],
+        [
+          "F2F2F2",
+          28
+        ],
+        [
+          "E5EDF4",
+          24
+        ],
+        [
+          "CA865F",
+          24
+        ],
+        [
+          "060607",
+          19
+        ],
+        [
+          "169665",
+          13
+        ]
+      ],
+      "representative_slides": {
+        "1": "cover",
+        "2": "outline",
+        "3": "national-needs",
+        "5": "mechanism-and-problem",
+        "7": "research-questions",
+        "9": "innovation",
+        "10": "data-result",
+        "12": "method",
+        "13": "KPI",
+        "16": "application",
+        "17": "closing"
+      },
+      "exclude_instruction_slides": [
+        18
+      ],
+      "metric_scope": "slide-local explicit attributes, excluding instruction slides; no text-master inheritance resolution"
+    },
+    {
+      "filename": "OD3-上导航栏开题答辩PPT模版（浙大蓝）.pptx",
+      "bytes": 12794441,
+      "sha256": "9da5ce145cb039306eb5ca1573dda1027d8ffaac893007cdf9ab11e84fe41da1",
+      "family": "proposal-top-nav",
+      "slide_count": 19,
+      "canvas_inches": [
+        13.333,
+        7.5
+      ],
+      "theme_colors": {
+        "dk1": "000000",
+        "lt1": "FFFFFF",
+        "dk2": "44546A",
+        "lt2": "FFFFFF",
+        "accent1": "003E87",
+        "accent2": "ED7D31",
+        "accent3": "A5A5A5",
+        "accent4": "FFC000",
+        "accent5": "5B9BD5",
+        "accent6": "70AD47",
+        "hlink": "0563C1",
+        "folHlink": "954F72"
+      },
+      "theme_fonts": {
+        "majorFont": {
+          "latin": "Calibri Light",
+          "ea": "Calibri Light",
+          "cs": "Arial",
+          "font:Hans": "等线 Light",
+          "font:Hant": "新細明體"
+        },
+        "minorFont": {
+          "latin": "Calibri",
+          "ea": "Calibri",
+          "cs": "Arial",
+          "font:Hans": "等线",
+          "font:Hant": "新細明體"
+        }
+      },
+      "explicit_fonts_top": [
+        [
+          "微软雅黑",
+          2528
+        ],
+        [
+          "宋体",
+          67
+        ],
+        [
+          "Arial",
+          53
+        ],
+        [
+          "Times New Roman",
+          22
+        ],
+        [
+          "微软雅黑 Light",
+          10
+        ],
+        [
+          "Calibri",
+          3
+        ]
+      ],
+      "explicit_font_sizes_pt_top": [
+        [
+          16.0,
+          143
+        ],
+        [
+          12.0,
+          101
+        ],
+        [
+          24.0,
+          59
+        ],
+        [
+          8.0,
+          38
+        ],
+        [
+          14.0,
+          32
+        ],
+        [
+          10.0,
+          31
+        ],
+        [
+          10.5,
+          23
+        ],
+        [
+          20.0,
+          19
+        ]
+      ],
+      "explicit_colors_top": [
+        [
+          "FBFBFB",
+          106
+        ],
+        [
+          "FFFFFF",
+          71
+        ],
+        [
+          "333333",
+          28
+        ],
+        [
+          "000000",
+          24
+        ],
+        [
+          "404040",
+          20
+        ],
+        [
+          "A5A5A5",
+          18
+        ],
+        [
+          "FFF2CC",
+          17
+        ],
+        [
+          "F5F5F5",
+          13
+        ]
+      ],
+      "representative_slides": {
+        "1": "cover",
+        "3": "outline",
+        "4": "background-evidence",
+        "8": "gap-and-question",
+        "9": "objectives",
+        "10": "cohort-method",
+        "11": "experimental-design",
+        "13": "innovation",
+        "16": "preliminary-results",
+        "17": "feasibility",
+        "18": "Gantt",
+        "19": "closing"
+      },
+      "exclude_instruction_slides": [
+        2
+      ],
+      "metric_scope": "slide-local explicit attributes, excluding instruction slides; no text-master inheritance resolution"
+    },
+    {
+      "filename": "【浙大蓝】生物学及理科适用！毕业论文开题答辩PPT模版.pptx",
+      "bytes": 14902634,
+      "sha256": "732e6dbfdcd731fe2ba35b5568efc2dc9bde550a255b4d754aab2c94dbbe146b",
+      "family": "proposal-zju-blue",
+      "slide_count": 19,
+      "canvas_inches": [
+        13.333,
+        7.5
+      ],
+      "theme_colors": {
+        "dk1": "000000",
+        "lt1": "FFFFFF",
+        "dk2": "44546A",
+        "lt2": "FFFFFF",
+        "accent1": "003E87",
+        "accent2": "ED7D31",
+        "accent3": "A5A5A5",
+        "accent4": "FFC000",
+        "accent5": "5B9BD5",
+        "accent6": "70AD47",
+        "hlink": "0563C1",
+        "folHlink": "954F72"
+      },
+      "theme_fonts": {
+        "majorFont": {
+          "latin": "Calibri Light",
+          "ea": "Calibri Light",
+          "cs": "Arial",
+          "font:Hans": "等线 Light",
+          "font:Hant": "新細明體"
+        },
+        "minorFont": {
+          "latin": "Calibri",
+          "ea": "Calibri",
+          "cs": "Arial",
+          "font:Hans": "等线",
+          "font:Hant": "新細明體"
+        }
+      },
+      "explicit_fonts_top": [
+        [
+          "微软雅黑",
+          2598
+        ],
+        [
+          "宋体",
+          67
+        ],
+        [
+          "Arial",
+          53
+        ],
+        [
+          "Times New Roman",
+          22
+        ],
+        [
+          "微软雅黑 Light",
+          12
+        ],
+        [
+          "Calibri",
+          3
+        ]
+      ],
+      "explicit_font_sizes_pt_top": [
+        [
+          16.0,
+          143
+        ],
+        [
+          12.0,
+          101
+        ],
+        [
+          24.0,
+          55
+        ],
+        [
+          28.0,
+          42
+        ],
+        [
+          8.0,
+          38
+        ],
+        [
+          14.0,
+          32
+        ],
+        [
+          10.0,
+          31
+        ],
+        [
+          20.0,
+          26
+        ]
+      ],
+      "explicit_colors_top": [
+        [
+          "FBFBFB",
+          106
+        ],
+        [
+          "FFFFFF",
+          71
+        ],
+        [
+          "333333",
+          28
+        ],
+        [
+          "000000",
+          24
+        ],
+        [
+          "404040",
+          20
+        ],
+        [
+          "A5A5A5",
+          18
+        ],
+        [
+          "FFF2CC",
+          17
+        ],
+        [
+          "F5F5F5",
+          13
+        ]
+      ],
+      "representative_slides": {
+        "1": "cover",
+        "2": "outline",
+        "3": "background-evidence",
+        "7": "gap-and-question",
+        "8": "objectives",
+        "9": "cohort-method",
+        "10": "experimental-design",
+        "12": "innovation",
+        "14": "preliminary-results",
+        "16": "feasibility",
+        "17": "Gantt",
+        "18": "closing"
+      },
+      "exclude_instruction_slides": [
+        19
+      ],
+      "metric_scope": "slide-local explicit attributes, excluding instruction slides; no text-master inheritance resolution"
+    },
+    {
+      "filename": "【海军蓝】文科适用！左侧导航栏组会文献汇报 PPT 模板.pptx",
+      "bytes": 3687430,
+      "sha256": "e5c205907d3eabd7a90d2de9abe797e9d7b3ac0bd3ea662144228ff07e4ef5a0",
+      "family": "journal-club-left-nav",
+      "slide_count": 30,
+      "canvas_inches": [
+        13.333,
+        7.5
+      ],
+      "theme_colors": {
+        "dk1": "000000",
+        "lt1": "FFFFFF",
+        "dk2": "44546A",
+        "lt2": "E7E6E6",
+        "accent1": "003F88",
+        "accent2": "CA865F",
+        "accent3": "A5A5A5",
+        "accent4": "FFC000",
+        "accent5": "5B9BD5",
+        "accent6": "70AD47",
+        "hlink": "0563C1",
+        "folHlink": "954F72"
+      },
+      "theme_fonts": {
+        "majorFont": {
+          "latin": "微软雅黑",
+          "ea": "微软雅黑",
+          "cs": "Arial"
+        },
+        "minorFont": {
+          "latin": "微软雅黑 Light",
+          "ea": "微软雅黑 Light",
+          "cs": "Arial"
+        }
+      },
+      "explicit_fonts_top": [
+        [
+          "等线",
+          226
+        ],
+        [
+          "微软雅黑",
+          32
+        ]
+      ],
+      "explicit_font_sizes_pt_top": [
+        [
+          16.0,
+          535
+        ],
+        [
+          20.0,
+          221
+        ],
+        [
+          14.0,
+          46
+        ],
+        [
+          24.0,
+          12
+        ],
+        [
+          32.0,
+          7
+        ],
+        [
+          60.0,
+          1
+        ],
+        [
+          26.0,
+          1
+        ],
+        [
+          40.0,
+          1
+        ]
+      ],
+      "explicit_colors_top": [
+        [
+          "000000",
+          204
+        ],
+        [
+          "FF0000",
+          156
+        ],
+        [
+          "C00000",
+          33
+        ],
+        [
+          "555555",
+          6
+        ],
+        [
+          "E20010",
+          1
+        ]
+      ],
+      "representative_slides": {
+        "1": "cover",
+        "2": "outline",
+        "3": "paper-metadata",
+        "4": "background",
+        "6": "research-logic",
+        "7": "figure-result",
+        "12": "figure-result",
+        "20": "rescue-experiment",
+        "26": "conclusion",
+        "27": "limitations",
+        "28": "innovation-and-inspiration",
+        "29": "closing"
+      },
+      "exclude_instruction_slides": [
+        30
+      ],
+      "metric_scope": "slide-local explicit attributes, excluding instruction slides; no text-master inheritance resolution"
+    },
+    {
+      "filename": "国家自然科学进步奖.pptx",
+      "bytes": 40342572,
+      "sha256": "9a892a71cd9b9518137e9b84b9dd01fa384b4f6f679fdb85f854740161d2bd83",
+      "family": "award-blue-red",
+      "slide_count": 18,
+      "canvas_inches": [
+        13.333,
+        7.5
+      ],
+      "theme_colors": {
+        "dk1": "000000",
+        "lt1": "FFFFFF",
+        "dk2": "44546A",
+        "lt2": "E7E6E6",
+        "accent1": "0046A5",
+        "accent2": "A40808",
+        "accent3": "A40808",
+        "accent4": "A40808",
+        "accent5": "A40808",
+        "accent6": "A40808",
+        "hlink": "A40808",
+        "folHlink": "A40808"
+      },
+      "theme_fonts": {
+        "majorFont": {
+          "latin": "等线 Light",
+          "ea": "等线 Light",
+          "cs": "Arial",
+          "font:Hans": "等线 Light",
+          "font:Hant": "新細明體"
+        },
+        "minorFont": {
+          "latin": "等线",
+          "ea": "等线",
+          "cs": "Arial",
+          "font:Hans": "等线",
+          "font:Hant": "新細明體"
+        }
+      },
+      "explicit_fonts_top": [
+        [
+          "思源黑体 CN Bold",
+          609
+        ],
+        [
+          "思源黑体 CN Heavy",
+          84
+        ],
+        [
+          "思源黑体 CN Medium",
+          68
+        ],
+        [
+          "微软雅黑",
+          44
+        ],
+        [
+          "等线",
+          37
+        ],
+        [
+          "HarmonyOS Sans SC",
+          37
+        ]
+      ],
+      "explicit_font_sizes_pt_top": [
+        [
+          24.0,
+          69
+        ],
+        [
+          14.0,
+          47
+        ],
+        [
+          20.0,
+          39
+        ],
+        [
+          18.0,
+          13
+        ],
+        [
+          32.0,
+          12
+        ],
+        [
+          12.0,
+          12
+        ],
+        [
+          10.0,
+          11
+        ],
+        [
+          16.0,
+          10
+        ]
+      ],
+      "explicit_colors_top": [
+        [
+          "C00000",
+          120
+        ],
+        [
+          "FFFFFF",
+          57
+        ],
+        [
+          "000000",
+          21
+        ],
+        [
+          "FFFF00",
+          19
+        ],
+        [
+          "1E2B4D",
+          15
+        ],
+        [
+          "0B4FA1",
+          10
+        ],
+        [
+          "060607",
+          7
+        ],
+        [
+          "001342",
+          3
+        ]
+      ],
+      "representative_slides": {
+        "1": "cover",
+        "2": "outline",
+        "3": "national-needs",
+        "6": "comparison-table",
+        "7": "research-questions",
+        "9": "innovation",
+        "12": "method",
+        "15": "applications",
+        "16": "impact",
+        "17": "closing"
+      },
+      "exclude_instruction_slides": [
+        18
+      ],
+      "metric_scope": "slide-local explicit attributes, excluding instruction slides; no text-master inheritance resolution"
+    },
+    {
+      "filename": "基于原子力显微镜 -紫色.pptx",
+      "bytes": 9384086,
+      "sha256": "59738dd26eac75746fbc185f64526442f776663cfc2178fcc274154602037bf8",
+      "family": "technical-review-purple",
+      "slide_count": 19,
+      "canvas_inches": [
+        13.333,
+        7.5
+      ],
+      "theme_colors": {
+        "dk1": "000000",
+        "lt1": "FFFFFF",
+        "dk2": "632E62",
+        "lt2": "EAE5EB",
+        "accent1": "92278F",
+        "accent2": "9B57D3",
+        "accent3": "755DD9",
+        "accent4": "665EB8",
+        "accent5": "45A5ED",
+        "accent6": "5982DB",
+        "hlink": "0066FF",
+        "folHlink": "666699"
+      },
+      "theme_fonts": {
+        "majorFont": {
+          "latin": "OPPOSans B",
+          "ea": "微软雅黑",
+          "cs": "Arial"
+        },
+        "minorFont": {
+          "latin": "OPPOSans",
+          "ea": "微软雅黑",
+          "cs": "Arial"
+        }
+      },
+      "explicit_fonts_top": [
+        [
+          "Microsoft YaHei",
+          168
+        ],
+        [
+          "Source Han Sans CN Regular",
+          21
+        ],
+        [
+          "Source Han Sans CN Light",
+          15
+        ],
+        [
+          "SimSun-Identity-H",
+          9
+        ],
+        [
+          "等线",
+          8
+        ],
+        [
+          "OPPOSans R",
+          8
+        ]
+      ],
+      "explicit_font_sizes_pt_top": [
+        [
+          14.0,
+          114
+        ],
+        [
+          16.0,
+          93
+        ],
+        [
+          27.0,
+          44
+        ],
+        [
+          20.0,
+          42
+        ],
+        [
+          24.0,
+          40
+        ],
+        [
+          32.0,
+          20
+        ],
+        [
+          18.0,
+          19
+        ],
+        [
+          36.0,
+          17
+        ]
+      ],
+      "explicit_colors_top": [
+        [
+          "000000",
+          137
+        ],
+        [
+          "C00000",
+          30
+        ],
+        [
+          "060607",
+          17
+        ],
+        [
+          "FFFFFF",
+          12
+        ],
+        [
+          "2DA3F9",
+          3
+        ],
+        [
+          "275DF5",
+          3
+        ],
+        [
+          "F8FBFE",
+          2
+        ],
+        [
+          "212121",
+          1
+        ]
+      ],
+      "representative_slides": {
+        "1": "cover",
+        "2": "problem-background",
+        "3": "advantages-disadvantages",
+        "6": "method-review",
+        "7": "comparison-table",
+        "9": "technical-gap",
+        "12": "mechanism-and-micrograph",
+        "16": "prior-method-comparison",
+        "18": "result"
+      },
+      "exclude_instruction_slides": [
+        19
+      ],
+      "metric_scope": "slide-local explicit attributes, excluding instruction slides; no text-master inheritance resolution"
+    },
+    {
+      "filename": "白蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+      "bytes": 7135701,
+      "sha256": "2708603c08a3945add02b1a796c67c368c18bc6c1d52ed2a55409d0272efd28c",
+      "family": "funding-white-blue",
+      "slide_count": 18,
+      "canvas_inches": [
+        13.333,
+        7.5
+      ],
+      "theme_colors": {
+        "dk1": "000000",
+        "lt1": "FFFFFF",
+        "dk2": "44546A",
+        "lt2": "E7E6E6",
+        "accent1": "0C56AE",
+        "accent2": "0C56AE",
+        "accent3": "0C56AE",
+        "accent4": "0C56AE",
+        "accent5": "0C56AE",
+        "accent6": "0C56AE",
+        "hlink": "0563C1",
+        "folHlink": "954F72"
+      },
+      "theme_fonts": {
+        "majorFont": {
+          "latin": "等线 Light",
+          "ea": "等线 Light",
+          "cs": "Arial",
+          "font:Hans": "等线 Light",
+          "font:Hant": "新細明體"
+        },
+        "minorFont": {
+          "latin": "等线",
+          "ea": "等线",
+          "cs": "Arial",
+          "font:Hans": "等线",
+          "font:Hant": "新細明體"
+        }
+      },
+      "explicit_fonts_top": [
+        [
+          "思源黑体 CN Bold",
+          567
+        ],
+        [
+          "OPPOSans M",
+          184
+        ],
+        [
+          "思源黑体 CN Medium",
+          138
+        ],
+        [
+          "微软雅黑",
+          78
+        ],
+        [
+          "Arial Black",
+          77
+        ],
+        [
+          "等线",
+          34
+        ]
+      ],
+      "explicit_font_sizes_pt_top": [
+        [
+          20.0,
+          68
+        ],
+        [
+          36.0,
+          48
+        ],
+        [
+          16.0,
+          37
+        ],
+        [
+          24.0,
+          36
+        ],
+        [
+          41.98,
+          32
+        ],
+        [
+          18.0,
+          14
+        ],
+        [
+          28.0,
+          7
+        ],
+        [
+          32.0,
+          6
+        ]
+      ],
+      "explicit_colors_top": [
+        [
+          "000000",
+          159
+        ],
+        [
+          "0C56AE",
+          127
+        ],
+        [
+          "C00000",
+          80
+        ],
+        [
+          "E5EDF4",
+          36
+        ],
+        [
+          "FFFFFF",
+          24
+        ],
+        [
+          "F5D77F",
+          16
+        ],
+        [
+          "B07515",
+          12
+        ],
+        [
+          "0E65CB",
+          11
+        ]
+      ],
+      "representative_slides": {
+        "1": "cover",
+        "2": "outline",
+        "3": "CV",
+        "6": "background",
+        "7": "trends",
+        "8": "timeline",
+        "9": "achievement",
+        "11": "academic-evaluation",
+        "13": "future-study",
+        "14": "scientific-questions",
+        "16": "team-platform",
+        "17": "closing"
+      },
+      "exclude_instruction_slides": [
+        18
+      ],
+      "metric_scope": "slide-local explicit attributes, excluding instruction slides; no text-master inheritance resolution"
+    },
+    {
+      "filename": "种子基金科研立项申请答辩结题展示PPT.pptx",
+      "bytes": 139005656,
+      "sha256": "c4c01f1ab999a5ff81c1342f10b5a6f2b8d24f8cca7c3504e9e01cb02f4ee485",
+      "family": "seed-fund-green",
+      "slide_count": 25,
+      "canvas_inches": [
+        13.333,
+        7.5
+      ],
+      "theme_colors": {
+        "dk1": "000000",
+        "lt1": "FFFFFF",
+        "dk2": "455F51",
+        "lt2": "E3DED1",
+        "accent1": "549E39",
+        "accent2": "8AB833",
+        "accent3": "C0CF3A",
+        "accent4": "029676",
+        "accent5": "4AB5C4",
+        "accent6": "0B4FA1",
+        "hlink": "6B9F25",
+        "folHlink": "0B4FA1"
+      },
+      "theme_fonts": {
+        "majorFont": {
+          "latin": "DIN Black",
+          "ea": "思源黑体 CN Bold",
+          "cs": "Arial"
+        },
+        "minorFont": {
+          "latin": "DIN",
+          "ea": "思源黑体 CN Medium",
+          "cs": "Arial"
+        }
+      },
+      "explicit_fonts_top": [
+        [
+          "微软雅黑",
+          313
+        ],
+        [
+          "Arial",
+          273
+        ],
+        [
+          "思源黑体 CN Bold",
+          222
+        ],
+        [
+          "思源黑体 CN Medium",
+          54
+        ],
+        [
+          "Roboto Bold",
+          48
+        ],
+        [
+          "Aa般若楷书加粗 (非商业使用)",
+          43
+        ]
+      ],
+      "explicit_font_sizes_pt_top": [
+        [
+          16.0,
+          90
+        ],
+        [
+          20.0,
+          84
+        ],
+        [
+          12.01,
+          69
+        ],
+        [
+          14.0,
+          62
+        ],
+        [
+          22.0,
+          37
+        ],
+        [
+          36.0,
+          34
+        ],
+        [
+          24.0,
+          19
+        ],
+        [
+          40.0,
+          16
+        ]
+      ],
+      "explicit_colors_top": [
+        [
+          "FFFFFF",
+          232
+        ],
+        [
+          "C00000",
+          115
+        ],
+        [
+          "0D5AB7",
+          41
+        ],
+        [
+          "00B0F0",
+          30
+        ],
+        [
+          "0070C0",
+          22
+        ],
+        [
+          "000000",
+          22
+        ],
+        [
+          "771395",
+          20
+        ],
+        [
+          "0081DC",
+          15
+        ]
+      ],
+      "representative_slides": {
+        "1": "cover",
+        "2": "outline",
+        "3": "CV",
+        "4": "team-profile",
+        "6": "experience",
+        "8": "background",
+        "9": "results",
+        "12": "image-heavy-results",
+        "16": "academic-impact",
+        "18": "planned-study",
+        "21": "platform",
+        "22": "assurance",
+        "24": "closing"
+      },
+      "exclude_instruction_slides": [
+        25
+      ],
+      "metric_scope": "slide-local explicit attributes, excluding instruction slides; no text-master inheritance resolution"
+    },
+    {
+      "filename": "科研PPT模板（广东研发）.pptx",
+      "bytes": 27953804,
+      "sha256": "b28f4f3e73d77dfd2217c2c8fa1f9208ef74e24acdccfc3d74857a9eeb41e857",
+      "family": "rd-royal-blue",
+      "slide_count": 19,
+      "canvas_inches": [
+        13.333,
+        7.5
+      ],
+      "theme_colors": {
+        "dk1": "000000",
+        "lt1": "FFFFFF",
+        "dk2": "44546A",
+        "lt2": "E7E6E6",
+        "accent1": "002FA8",
+        "accent2": "ED7D31",
+        "accent3": "A5A5A5",
+        "accent4": "FFC000",
+        "accent5": "5B9BD5",
+        "accent6": "70AD47",
+        "hlink": "0563C1",
+        "folHlink": "954F72"
+      },
+      "theme_fonts": {
+        "majorFont": {
+          "latin": "等线 Light",
+          "ea": "等线 Light",
+          "cs": "Arial",
+          "font:Hans": "等线 Light",
+          "font:Hant": "新細明體"
+        },
+        "minorFont": {
+          "latin": "等线",
+          "ea": "等线",
+          "cs": "Arial",
+          "font:Hans": "等线",
+          "font:Hant": "新細明體"
+        }
+      },
+      "explicit_fonts_top": [
+        [
+          "思源黑体 CN Bold",
+          675
+        ],
+        [
+          "思源黑体 CN Heavy",
+          100
+        ],
+        [
+          "Arial Black",
+          86
+        ],
+        [
+          "思源黑体 CN Medium",
+          85
+        ],
+        [
+          "微软雅黑",
+          58
+        ],
+        [
+          "Roboto Bold",
+          56
+        ]
+      ],
+      "explicit_font_sizes_pt_top": [
+        [
+          16.0,
+          64
+        ],
+        [
+          14.0,
+          52
+        ],
+        [
+          20.0,
+          50
+        ],
+        [
+          24.0,
+          40
+        ],
+        [
+          13.3,
+          19
+        ],
+        [
+          32.0,
+          11
+        ],
+        [
+          18.0,
+          9
+        ],
+        [
+          10.5,
+          5
+        ]
+      ],
+      "explicit_colors_top": [
+        [
+          "C00000",
+          90
+        ],
+        [
+          "FFFFFF",
+          84
+        ],
+        [
+          "1E2B4D",
+          11
+        ],
+        [
+          "FFFF00",
+          7
+        ],
+        [
+          "C40000",
+          6
+        ],
+        [
+          "FF0000",
+          5
+        ],
+        [
+          "B01E21",
+          4
+        ],
+        [
+          "CBCBCB",
+          3
+        ]
+      ],
+      "representative_slides": {
+        "1": "cover",
+        "2": "outline",
+        "3": "rationale",
+        "6": "task-decomposition",
+        "7": "research-content",
+        "9": "technical-method",
+        "13": "team",
+        "14": "work-foundation",
+        "16": "expected-results",
+        "17": "risk-table",
+        "18": "closing"
+      },
+      "exclude_instruction_slides": [
+        19
+      ],
+      "metric_scope": "slide-local explicit attributes, excluding instruction slides; no text-master inheritance resolution"
+    },
+    {
+      "filename": "联合基金(亚热带岩性森林 绿色）.pptx",
+      "bytes": 65805210,
+      "sha256": "62d961b6189cb7585c6d3d2bde6569267f51c176c35748e2eee6553df99628cf",
+      "family": "joint-fund-deep-green",
+      "slide_count": 19,
+      "canvas_inches": [
+        13.333,
+        7.5
+      ],
+      "theme_colors": {
+        "dk1": "000000",
+        "lt1": "FFFFFF",
+        "dk2": "44546A",
+        "lt2": "E7E6E6",
+        "accent1": "0E5849",
+        "accent2": "ED7D31",
+        "accent3": "A5A5A5",
+        "accent4": "FFC000",
+        "accent5": "5B9BD5",
+        "accent6": "70AD47",
+        "hlink": "0563C1",
+        "folHlink": "954F72"
+      },
+      "theme_fonts": {
+        "majorFont": {
+          "latin": "等线 Light",
+          "ea": "等线 Light",
+          "cs": "Arial",
+          "font:Hans": "等线 Light",
+          "font:Hant": "新細明體"
+        },
+        "minorFont": {
+          "latin": "等线",
+          "ea": "等线",
+          "cs": "Arial",
+          "font:Hans": "等线",
+          "font:Hant": "新細明體"
+        }
+      },
+      "explicit_fonts_top": [
+        [
+          "思源黑体 CN Bold",
+          792
+        ],
+        [
+          "思源黑体 CN Heavy",
+          230
+        ],
+        [
+          "思源黑体 CN Medium",
+          100
+        ],
+        [
+          "等线",
+          94
+        ],
+        [
+          "微软雅黑",
+          53
+        ],
+        [
+          "Roboto Bold",
+          38
+        ]
+      ],
+      "explicit_font_sizes_pt_top": [
+        [
+          14.0,
+          134
+        ],
+        [
+          20.0,
+          73
+        ],
+        [
+          16.0,
+          32
+        ],
+        [
+          32.0,
+          25
+        ],
+        [
+          10.0,
+          13
+        ],
+        [
+          22.0,
+          12
+        ],
+        [
+          12.0,
+          12
+        ],
+        [
+          8.0,
+          12
+        ]
+      ],
+      "explicit_colors_top": [
+        [
+          "FFFFFF",
+          66
+        ],
+        [
+          "C00000",
+          46
+        ],
+        [
+          "0070C0",
+          10
+        ],
+        [
+          "FFC000",
+          8
+        ],
+        [
+          "1E2B4D",
+          8
+        ],
+        [
+          "7030A0",
+          7
+        ],
+        [
+          "FFFF00",
+          6
+        ],
+        [
+          "060607",
+          3
+        ]
+      ],
+      "representative_slides": {
+        "1": "cover",
+        "2": "outline",
+        "3": "rationale",
+        "6": "study-route",
+        "7": "work-package",
+        "9": "case-study",
+        "12": "innovation",
+        "14": "schedule",
+        "17": "platform-and-collaboration-table",
+        "18": "closing",
+        "15": "expected-results"
+      },
+      "exclude_instruction_slides": [
+        19
+      ],
+      "metric_scope": "slide-local explicit attributes, excluding instruction slides; no text-master inheritance resolution"
+    },
+    {
+      "filename": "重点研发项目申报答辩ppt模板（无音乐淡入淡出）.pptx",
+      "bytes": 27612701,
+      "sha256": "b263ffd5333c090f5f9aa6a0b47cd464be9f91b31c5a3b946fe5d6bc3fe204bc",
+      "family": "rd-plan-blue",
+      "slide_count": 38,
+      "canvas_inches": [
+        13.333,
+        7.5
+      ],
+      "theme_colors": {
+        "dk1": "000000",
+        "lt1": "FFFFFF",
+        "dk2": "44546A",
+        "lt2": "E7E6E6",
+        "accent1": "4472C4",
+        "accent2": "ED7D31",
+        "accent3": "A5A5A5",
+        "accent4": "FFC000",
+        "accent5": "5B9BD5",
+        "accent6": "70AD47",
+        "hlink": "0563C1",
+        "folHlink": "954F72"
+      },
+      "theme_fonts": {
+        "majorFont": {
+          "latin": "Arial",
+          "ea": "微软雅黑",
+          "cs": "Arial"
+        },
+        "minorFont": {
+          "latin": "Arial",
+          "ea": "微软雅黑",
+          "cs": "Arial"
+        }
+      },
+      "explicit_fonts_top": [
+        [
+          "Arial",
+          993
+        ],
+        [
+          "微软雅黑",
+          993
+        ],
+        [
+          "MiSans Semibold",
+          32
+        ],
+        [
+          "MiSans Normal",
+          32
+        ],
+        [
+          "Times New Roman",
+          5
+        ],
+        [
+          "Open Sans",
+          4
+        ]
+      ],
+      "explicit_font_sizes_pt_top": [
+        [
+          16.0,
+          212
+        ],
+        [
+          20.0,
+          202
+        ],
+        [
+          24.0,
+          108
+        ],
+        [
+          18.0,
+          86
+        ],
+        [
+          32.0,
+          45
+        ],
+        [
+          14.0,
+          44
+        ],
+        [
+          12.0,
+          42
+        ],
+        [
+          22.0,
+          34
+        ]
+      ],
+      "explicit_colors_top": [
+        [
+          "31589D",
+          1012
+        ],
+        [
+          "1C468A",
+          262
+        ],
+        [
+          "000000",
+          172
+        ],
+        [
+          "8F1111",
+          65
+        ],
+        [
+          "F7F9FD",
+          29
+        ],
+        [
+          "0070C0",
+          21
+        ],
+        [
+          "FFFDFD",
+          18
+        ],
+        [
+          "00377A",
+          12
+        ]
+      ],
+      "representative_slides": {
+        "1": "cover",
+        "2": "outline",
+        "3": "section-divider",
+        "4": "rationale",
+        "7": "guideline-target-comparison",
+        "10": "objectives",
+        "12": "technical-route",
+        "16": "task-decomposition",
+        "21": "schedule",
+        "23": "foundation",
+        "27": "organization-and-assurance",
+        "29": "deliverable-KPI-table",
+        "31": "risk-table",
+        "36": "financial-summary",
+        "37": "closing"
+      },
+      "exclude_instruction_slides": [
+        38
+      ],
+      "metric_scope": "slide-local explicit attributes, excluding instruction slides; no text-master inheritance resolution"
+    },
+    {
+      "filename": "重点科技研发汇报PPT(多铁材料).pptx",
+      "bytes": 10367667,
+      "sha256": "ae67def524e000d1fee642a8ddf99a7192b49baaa46871b40c028accdf853d8c",
+      "family": "rd-multiferroic-blue",
+      "slide_count": 18,
+      "canvas_inches": [
+        13.333,
+        7.5
+      ],
+      "theme_colors": {
+        "dk1": "000000",
+        "lt1": "FFFFFF",
+        "dk2": "44546A",
+        "lt2": "E7E6E6",
+        "accent1": "0C56AE",
+        "accent2": "0C56AE",
+        "accent3": "0C56AE",
+        "accent4": "0C56AE",
+        "accent5": "0C56AE",
+        "accent6": "0C56AE",
+        "hlink": "0563C1",
+        "folHlink": "954F72"
+      },
+      "theme_fonts": {
+        "majorFont": {
+          "latin": "等线 Light",
+          "ea": "等线 Light",
+          "cs": "Arial",
+          "font:Hans": "等线 Light",
+          "font:Hant": "新細明體"
+        },
+        "minorFont": {
+          "latin": "等线",
+          "ea": "等线",
+          "cs": "Arial",
+          "font:Hans": "等线",
+          "font:Hant": "新細明體"
+        }
+      },
+      "explicit_fonts_top": [
+        [
+          "思源黑体 CN Bold",
+          559
+        ],
+        [
+          "OPPOSans M",
+          184
+        ],
+        [
+          "思源黑体 CN Medium",
+          138
+        ],
+        [
+          "微软雅黑",
+          78
+        ],
+        [
+          "Arial Black",
+          77
+        ],
+        [
+          "等线",
+          34
+        ]
+      ],
+      "explicit_font_sizes_pt_top": [
+        [
+          20.0,
+          69
+        ],
+        [
+          36.0,
+          48
+        ],
+        [
+          16.0,
+          37
+        ],
+        [
+          41.98,
+          32
+        ],
+        [
+          24.0,
+          28
+        ],
+        [
+          18.0,
+          14
+        ],
+        [
+          28.0,
+          7
+        ],
+        [
+          32.0,
+          6
+        ]
+      ],
+      "explicit_colors_top": [
+        [
+          "000000",
+          159
+        ],
+        [
+          "0C56AE",
+          116
+        ],
+        [
+          "C00000",
+          80
+        ],
+        [
+          "FFFFFF",
+          52
+        ],
+        [
+          "E5EDF4",
+          36
+        ],
+        [
+          "F5D77F",
+          16
+        ],
+        [
+          "B07515",
+          12
+        ],
+        [
+          "0E65CB",
+          11
+        ]
+      ],
+      "representative_slides": {
+        "1": "cover",
+        "2": "outline",
+        "3": "CV",
+        "6": "background",
+        "7": "trends",
+        "8": "timeline",
+        "9": "achievement",
+        "10": "achievement",
+        "11": "academic-evaluation",
+        "13": "future-study",
+        "14": "scientific-questions",
+        "16": "team-platform",
+        "17": "closing"
+      },
+      "exclude_instruction_slides": [
+        18
+      ],
+      "metric_scope": "slide-local explicit attributes, excluding instruction slides; no text-master inheritance resolution"
+    },
+    {
+      "filename": "青年科学基金项目(等离子体).pptx",
+      "bytes": 5731879,
+      "sha256": "dc6ab2dbe6fc0b0daec040c28a1a289da8923e6750b19233930b5c131fde5881",
+      "family": "youth-fund-blue",
+      "slide_count": 18,
+      "canvas_inches": [
+        13.333,
+        7.5
+      ],
+      "theme_colors": {
+        "dk1": "000000",
+        "lt1": "FFFFFF",
+        "dk2": "44546A",
+        "lt2": "E7E6E6",
+        "accent1": "4472C4",
+        "accent2": "ED7D31",
+        "accent3": "A5A5A5",
+        "accent4": "FFC000",
+        "accent5": "5B9BD5",
+        "accent6": "70AD47",
+        "hlink": "0563C1",
+        "folHlink": "954F72"
+      },
+      "theme_fonts": {
+        "majorFont": {
+          "latin": "Calibri Light",
+          "ea": "Calibri Light",
+          "cs": "Arial",
+          "font:Hans": "等线 Light",
+          "font:Hant": "新細明體"
+        },
+        "minorFont": {
+          "latin": "Calibri",
+          "ea": "Calibri",
+          "cs": "Arial",
+          "font:Hans": "等线",
+          "font:Hant": "新細明體"
+        }
+      },
+      "explicit_fonts_top": [
+        [
+          "微软雅黑",
+          544
+        ],
+        [
+          "思源黑体 CN Bold",
+          34
+        ],
+        [
+          "思源黑体 CN Medium",
+          28
+        ],
+        [
+          "思源宋体 CN Heavy",
+          10
+        ],
+        [
+          "DIN",
+          8
+        ],
+        [
+          "等线",
+          4
+        ]
+      ],
+      "explicit_font_sizes_pt_top": [
+        [
+          20.0,
+          79
+        ],
+        [
+          32.0,
+          41
+        ],
+        [
+          16.0,
+          31
+        ],
+        [
+          14.0,
+          25
+        ],
+        [
+          28.0,
+          23
+        ],
+        [
+          24.0,
+          20
+        ],
+        [
+          18.0,
+          8
+        ],
+        [
+          48.0,
+          4
+        ]
+      ],
+      "explicit_colors_top": [
+        [
+          "FFFFFF",
+          168
+        ],
+        [
+          "004AAD",
+          117
+        ],
+        [
+          "FF0000",
+          53
+        ],
+        [
+          "0070C0",
+          46
+        ],
+        [
+          "E5F2F9",
+          16
+        ],
+        [
+          "C00000",
+          16
+        ],
+        [
+          "0097B2",
+          14
+        ],
+        [
+          "F3FAFC",
+          14
+        ]
+      ],
+      "representative_slides": {
+        "1": "cover",
+        "2": "outline",
+        "3": "rationale",
+        "5": "gap",
+        "7": "technical-framework",
+        "8": "dataset",
+        "9": "model-input-output",
+        "10": "optimization-loop",
+        "12": "training-evaluation",
+        "13": "optimization-results",
+        "14": "parameter-analysis",
+        "16": "conclusion-future",
+        "17": "closing"
+      },
+      "exclude_instruction_slides": [
+        18
+      ],
+      "metric_scope": "slide-local explicit attributes, excluding instruction slides; no text-master inheritance resolution"
+    },
+    {
+      "filename": "高性能全固态锂电池(紫）.pptx",
+      "bytes": 40180300,
+      "sha256": "35d8837d3ffb0bceafb94a51e71df5532d0e5c1525087a74e2b4d17be925466c",
+      "family": "battery-purple",
+      "slide_count": 19,
+      "canvas_inches": [
+        13.333,
+        7.5
+      ],
+      "theme_colors": {
+        "dk1": "000000",
+        "lt1": "FFFFFF",
+        "dk2": "455F51",
+        "lt2": "E3DED1",
+        "accent1": "0B4FA1",
+        "accent2": "8AB833",
+        "accent3": "C0CF3A",
+        "accent4": "029676",
+        "accent5": "4AB5C4",
+        "accent6": "640872",
+        "hlink": "6B9F25",
+        "folHlink": "0B4FA1"
+      },
+      "theme_fonts": {
+        "majorFont": {
+          "latin": "DIN Black",
+          "ea": "思源黑体 CN Bold",
+          "cs": "Arial"
+        },
+        "minorFont": {
+          "latin": "DIN",
+          "ea": "思源黑体 CN Medium",
+          "cs": "Arial"
+        }
+      },
+      "explicit_fonts_top": [
+        [
+          "思源黑体 CN Bold",
+          496
+        ],
+        [
+          "思源黑体 CN Medium",
+          286
+        ],
+        [
+          "思源黑体 CN Heavy",
+          72
+        ],
+        [
+          "DIN",
+          47
+        ],
+        [
+          "思源宋体 CN Heavy",
+          20
+        ],
+        [
+          "等线",
+          18
+        ]
+      ],
+      "explicit_font_sizes_pt_top": [
+        [
+          16.0,
+          71
+        ],
+        [
+          20.0,
+          63
+        ],
+        [
+          36.0,
+          23
+        ],
+        [
+          24.0,
+          20
+        ],
+        [
+          14.0,
+          20
+        ],
+        [
+          18.0,
+          17
+        ],
+        [
+          28.0,
+          10
+        ],
+        [
+          22.0,
+          9
+        ]
+      ],
+      "explicit_colors_top": [
+        [
+          "C00000",
+          111
+        ],
+        [
+          "0B4FA1",
+          51
+        ],
+        [
+          "FFFFFF",
+          25
+        ],
+        [
+          "F3F3F7",
+          8
+        ],
+        [
+          "000000",
+          8
+        ],
+        [
+          "1E2B4D",
+          5
+        ],
+        [
+          "060607",
+          3
+        ],
+        [
+          "323232",
+          3
+        ]
+      ],
+      "representative_slides": {
+        "1": "cover",
+        "2": "outline",
+        "3": "rationale",
+        "4": "problem-gap",
+        "6": "technical-method",
+        "7": "research-hotspots",
+        "9": "method",
+        "10": "method-comparison",
+        "13": "PI-profile",
+        "14": "academic-evaluation",
+        "16": "expected-results",
+        "17": "risks",
+        "18": "closing"
+      },
+      "exclude_instruction_slides": [
+        19
+      ],
+      "metric_scope": "slide-local explicit attributes, excluding instruction slides; no text-master inheritance resolution"
+    }
+  ],
+  "source_distribution": "Original PPTX samples are not bundled. Filenames, hashes and physical slide references document design provenance; the retained derived template is sufficient for use."
+}
